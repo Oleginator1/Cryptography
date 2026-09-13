@@ -1,0 +1,5 @@
+# Build artifacts (Compiled executables)
+*.exe
+
+# Local development environment configurations
+.vscode/
